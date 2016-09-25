@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Comunicacion Actividades</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="btnVeificar">Verificar</string>
+    <string name="tvResultado">Resultado</string>
+    <string name="title_activity_condiciones">Aceptar condiciones</string>
+    <string name="tvMensaje">¿Aceptas las condiciones?</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnRechazar">Rechazar</string>
+</resources>
